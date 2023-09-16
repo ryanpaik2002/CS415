@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ryanp/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/ryanp/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/ryanp/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/ryanp/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/ryanp/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/ryanp/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/BP_Score.uasset",
+				"C:/Users/ryanp/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/BP_HealthBarWidget.uasset",
+				"C:/Users/ryanp/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"C:/Users/ryanp/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"C:/Users/ryanp/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"C:/Users/ryanp/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HealthCurve.uasset",
+				"C:/Users/ryanp/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/futuristic_health_pack_texture_0.uasset",
+				"C:/Users/ryanp/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/futuristic_health_pack_texture_1.uasset",
+				"C:/Users/ryanp/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/futuristic_health_pack_texture_2.uasset",
+				"C:/Users/ryanp/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/futuristic_health_pack_texture_3.uasset",
+				"C:/Users/ryanp/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/standardSurface1.uasset",
+				"C:/Users/ryanp/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/futuristic_health_pack.uasset",
+				"C:/Users/ryanp/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Root.uasset",
+				"C:/Users/ryanp/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/cyber_wasp.uasset",
+				"C:/Users/ryanp/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/ice_projectile_texture_0.uasset",
+				"C:/Users/ryanp/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Material_001.uasset",
+				"C:/Users/ryanp/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/ice_projectile.uasset",
+				"C:/Users/ryanp/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Enemy.uasset",
+				"C:/Users/ryanp/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/projectile.uasset",
+				"C:/Users/ryanp/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HealthBarWidget.uasset",
+				"C:/Users/ryanp/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/HealthPack.uasset"
+			]
+		}
+	]
+}
